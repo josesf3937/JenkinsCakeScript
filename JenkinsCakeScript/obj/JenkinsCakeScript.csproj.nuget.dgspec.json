@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj": {}
+    "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\log\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj": {
+    "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\log\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj",
+        "projectUniqueName": "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\log\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj",
         "projectName": "JenkinsCakeScript",
-        "projectPath": "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj",
+        "projectPath": "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\log\\JenkinsCakeScript\\JenkinsCakeScript\\JenkinsCakeScript.csproj",
         "packagesPath": "C:\\Users\\JoseSeeronAnthonyPit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsCakeScript\\JenkinsCakeScript\\obj\\",
+        "outputPath": "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\log\\JenkinsCakeScript\\JenkinsCakeScript\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
