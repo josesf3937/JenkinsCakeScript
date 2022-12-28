@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Publish'){
             steps{
-                archiveArtifacts artifacts: '\"Release/net6.0/*.*\"', followSymlinks: false, onlyIfSuccessful: true
+                archiveArtifacts artifacts: '/Release/net6.0/*.*', followSymlinks: false, onlyIfSuccessful: true
             }
         }
     }
