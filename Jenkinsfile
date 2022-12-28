@@ -1,5 +1,8 @@
 pipeline {
     agent any
+    environment{
+        FilePath='**/bin/Release/net6.0/*.*'
+    }
 
     stages {
         stage('BuildandTest') {
@@ -9,7 +12,7 @@ pipeline {
         }
         stage('Publish'){
             steps{
-                archiveArtifacts artifacts: '**/bin/Release/net6.0/*.*', followSymlinks: false, onlyIfSuccessful: true
+                archiveArtifacts artifacts: ${FilePath} , followSymlinks: false, onlyIfSuccessful: true
             }
         }
     }
