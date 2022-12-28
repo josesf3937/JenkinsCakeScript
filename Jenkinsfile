@@ -12,7 +12,7 @@ pipeline {
         }
         stage('Publish'){
             steps{
-                archiveArtifacts artifacts: ${FilePath} , followSymlinks: false, onlyIfSuccessful: true
+                archiveArtifacts artifacts: $FilePath , followSymlinks: false, onlyIfSuccessful: true
             }
         }
     }
