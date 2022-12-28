@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Publish'){
             steps{
-                bat 'dotnet Publish -c Release'
+                archiveArtifacts artifacts: '\"Release/net6.0/*.*\"', followSymlinks: false, onlyIfSuccessful: true
             }
         }
     }
